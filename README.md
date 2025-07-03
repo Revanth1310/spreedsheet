@@ -8,7 +8,7 @@ A pixel-perfect, front-end-only React prototype that mimics a Google Sheets–li
 
 ## 🔍 Live Preview
 
-[🔗 Live Link Here](https://your-live-url.com)
+[🔗 Live Link Here](https://spreedsheet-liart.vercel.app/)
 
 ---
 
