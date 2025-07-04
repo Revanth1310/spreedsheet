@@ -1,5 +1,5 @@
 import React from 'react'
-import { Bell, Search, User, MoreHorizontal } from 'lucide-react'
+import { Bell, Search, MoreHorizontal } from 'lucide-react'
 
 export default function TopRightBar() {
   return (
@@ -35,7 +35,11 @@ export default function TopRightBar() {
 
         {/* Profile */}
         <div className="flex items-center gap-2 text-sm">
-          <User size={20} className="rounded-full bg-gray-300 text-white p-1" />
+          <img
+            src="/public/icons/download.jpeg"
+            alt="Profile"
+            className="w-8 h-8 rounded-full object-cover"
+          />
           <div className="leading-tight">
             <div className="font-semibold text-black">John Doe</div>
             <div className="text-xs text-gray-500">john.doe@example.com</div>
