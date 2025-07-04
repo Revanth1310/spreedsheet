@@ -36,7 +36,7 @@ export default function TopRightBar() {
         {/* Profile */}
         <div className="flex items-center gap-2 text-sm">
           <img
-            src="/public/icons/download.jpeg"
+            src="/public/icons/icon.jpg"
             alt="Profile"
             className="w-8 h-8 rounded-full object-cover"
           />
